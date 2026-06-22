@@ -1,0 +1,50 @@
+{
+  "intent": "A single wide title/hero banner image for the README of an open-source developer tool named Scribe. Scribe is a Claude Code plugin that interviews you and writes in YOUR voice, then strips the tells that make text read as AI-generated.",
+  "output": {
+    "absolute_save_path": "C:/Users/ME/Documents/Projects/scribe/assets/scribe-banner.png",
+    "format": "PNG",
+    "orientation": "landscape",
+    "target_size_px": "1536x1024",
+    "purpose": "GitHub README header banner"
+  },
+  "concept": "The craft of writing meets the terminal. A fountain-pen nib lays down one flowing stroke of ink that, as it travels to the right, resolves into a clean line of typeset words — the idea that your own voice becomes finished prose.",
+  "focal_motif": {
+    "object": "an elegant fountain-pen nib (or quill) at the left, caught mid-stroke",
+    "ink_stroke": "one confident horizontal ink flourish flowing left-to-right across the banner, tapering into a fine line",
+    "transformation": "near its end the ink line subtly resolves into a hint of crisp typeset / monospace words (suggestive, not literal paragraphs)"
+  },
+  "wordmark": {
+    "text": "SCRIBE",
+    "exact_spelling_required": true,
+    "style": "bold, confident, modern — a refined serif or a clean geometric sans; very high legibility; large; the clear hero of the composition",
+    "placement": "center or upper-center, with generous space around it"
+  },
+  "tagline": {
+    "text": "Write like you. Not like AI.",
+    "exact_spelling_required": true,
+    "style": "small, understated, set beneath the wordmark in a light or medium weight",
+    "omit_if_text_would_be_imperfect": true
+  },
+  "style": {
+    "mood": "premium, editorial, calm, craft-meets-code",
+    "palette": {
+      "background": "deep ink navy / near-black (around #0d1117), with a very subtle paper or carbon texture",
+      "primary_ink": "warm off-white / parchment for the stroke and the wordmark",
+      "accent": "a single warm amber-gold glow along the ink stroke — one accent hue only, no rainbow"
+    },
+    "lighting": "soft directional glow tracing the ink stroke; gentle vignette toward the edges",
+    "finish": "flat, illustrative, vector-leaning with subtle depth; not photoreal, not a glossy 3D render"
+  },
+  "composition": {
+    "layout": "wide banner with strong negative space; the nib and ink motif anchor the left and lower third; the SCRIBE wordmark dominates",
+    "balance": "uncluttered, lots of breathing room, a single clear focal path from nib to words"
+  },
+  "must_avoid": [
+    "misspelled, duplicated, or gibberish text of any kind",
+    "any words other than 'SCRIBE' and the one short tagline",
+    "stock clip-art or cliche quill-on-scroll kitsch",
+    "rainbow gradients or more than one accent hue",
+    "busy backgrounds, scattered icons, UI chrome, watermarks, logos, signatures",
+    "photorealistic hands or faces"
+  ]
+}

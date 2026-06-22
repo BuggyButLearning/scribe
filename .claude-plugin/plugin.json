@@ -1,0 +1,23 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "scribe",
+  "displayName": "Scribe",
+  "version": "1.0.0",
+  "description": "Interview-driven writing workflow. Draft, refine, and critique articles, emails, letters, and posts in your own voice, not AI's.",
+  "author": {
+    "name": "BuggyButLearning",
+    "url": "https://github.com/BuggyButLearning"
+  },
+  "homepage": "https://github.com/BuggyButLearning/scribe",
+  "repository": "https://github.com/BuggyButLearning/scribe",
+  "license": "MIT",
+  "keywords": [
+    "writing",
+    "editing",
+    "voice",
+    "ghostwriter",
+    "anti-ai",
+    "drafting",
+    "critique"
+  ]
+}

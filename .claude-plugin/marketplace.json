@@ -1,0 +1,26 @@
+{
+  "name": "buggybutlearning",
+  "owner": {
+    "name": "BuggyButLearning"
+  },
+  "description": "Plugins by BuggyButLearning.",
+  "plugins": [
+    {
+      "name": "scribe",
+      "source": "./",
+      "description": "Interview-driven writing workflow. Draft, refine, and critique articles, emails, letters, and posts in your own voice, not AI's.",
+      "version": "1.0.0",
+      "author": {
+        "name": "BuggyButLearning"
+      },
+      "homepage": "https://github.com/BuggyButLearning/scribe",
+      "license": "MIT",
+      "keywords": [
+        "writing",
+        "editing",
+        "voice",
+        "anti-ai"
+      ]
+    }
+  ]
+}
